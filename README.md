@@ -9,6 +9,10 @@ Her kan beskrive hvilke oppgave(r) du har valgt å løse.
 
 ## Hvordan kjøre prosjektet
 
+### Prosjektet er deployert til heroku og finnes her: https://stacc-code-challange-kyc.herokuapp.com/
+
+### For å kjøre proskjetet lokat:
+
 > Prosjektet startes ved å starte opp 1. api og 2. frontend <br>
 > 1. For å starte server kjør følgende kommando i root mappen (mappen som heter "pep-search"):
 ```
