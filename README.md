@@ -14,8 +14,9 @@ Her kan beskrive hvilke oppgave(r) du har valgt å løse.
 ```
 npm start
 ```
-> 2. For å starte frontend kjør følgende kommando i client mappen (bruk **cd client** for å navigere deg dit):
+> 2. For å starte frontend kjør følgende 2 kommandoer i client mappen (bruk **cd client** for å navigere deg dit):
 ```
+npm install
 npm start
 ```
 
