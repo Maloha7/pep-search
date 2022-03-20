@@ -10,14 +10,13 @@ Her kan beskrive hvilke oppgave(r) du har valgt å løse.
 ## Hvordan kjøre prosjektet
 
 > Prosjektet startes ved å starte opp 1. api og 2. frontend <br>
-> 1. For å starte server kjør følgende kommando i root mappen:
+> 1. For å starte server kjør følgende kommando i root mappen (mappen som heter "pep-search"):
 ```
 npm start
 ```
-> 2. For å starte frontend kjør følgende 2 kommandoer i client mappen (bruk **cd client** for å navigere deg dit):
+> 2. For å starte frontend må du åpne opp en ny terminal og kjøre følgende kommando i client mappen (bruk **cd client** for å navigere deg dit):
 ```
-npm install
-npm start
+npm install && npm start
 ```
 
 ## Kommentarer
