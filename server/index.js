@@ -15,7 +15,7 @@ app.listen(
     () => console.log(`server is alive on http://localhost:${PORT}`)
 )
 
-//Searches through a local csv file and outputs wheter or not a person is politically exposed or not
+//Searches through a local csv file and outputs whether or not a person is politically exposed or not
 app.get('/api/pep', (req, res) => {
     const name = req.query.name;
     var numberOfHits = 0;
